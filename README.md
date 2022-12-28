@@ -1,7 +1,7 @@
 - <h1>👋 Hi, I’m @foorhad </h1>
 
 ---------------
- _i'm studing at Bangladesh Sweden Polytechnic Institute from Department of CST_
+ __i'm a student now i'm studing at Bangladesh Sweden Polytechnic Institute from Department of CST__
  
 ## All Social Account
 [Linkedin]()    
