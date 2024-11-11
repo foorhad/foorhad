@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullaha Al Forhad</h1>
-<h3 align="center">A passionate Competitive Programming</h3>
+<i><h3 align="center">i'm passionate in Competitive Programming</h3></i>i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foorhad&label=Profile%20views&color=0e75b6&style=flat" alt="foorhad" /> </p>
 
