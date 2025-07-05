@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/forhadyt" target="blank"><img src="https://img.shields.io/twitter/follow/forhadyt?logo=twitter&style=for-the-badge" alt="forhadyt" /></a> </p>
 
-- 🌱 I’m currently learning **C++, DSA, Competitive Programming**
+- 🌱 I’m currently learning **Mern-Stack Development**
 
 - 💬 Ask me about **Competitive Programming**
 
